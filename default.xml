@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch=".." name="github"/>
+	<default remote="github" revision="refs/tags/Base_R000" sync-j="4"/>
+
+	<project path="binaries-marvell" name="binaries-marvell"/>
+	<project path="mv-ddr-marvell" name="mv-ddr-marvell"/>
+	<project path="atf-marell" name="atf-marvell"/>
+	<!--
+	<project path="linux-marvell" name="linux-marvell"/>
+	<project path="u-boot-marvell" name="u-boot-marvell"/>
+	-->
+</manifest>
