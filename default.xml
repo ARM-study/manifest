@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch=".." name="github"/>
+	<default remote="github" revision="refs/tags/Base_R000" sync-j="4"/>
+
+	<project path="binaries-marvell" name="binaries-marvell" revision="binaries-marvell-armada-17.10"/>
+	<project path="mv-ddr-marvell" name="mv-ddr-marvell" revision="mv_ddr-armada-17.10"/>
+	<project path="atf-marell" name="atf-marvell" revision="atf-v1.3-armada-17.10"/>
+	<!--
+	<project path="linux-marvell" name="linux-marvell" revision="linux-4.4.52-armada-17.10"/>
+	<project path="u-boot-marvell" name="u-boot-marvell revision="u-boot-2015.01-armada-17.10"/>
+	-->
+</manifest>
