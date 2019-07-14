@@ -5,7 +5,7 @@
 
 	<project path="binaries-marvell" name="binaries-marvell" revision="binaries-marvell-armada-18.12"/>
 	<project path="mv-ddr-marvell" name="mv-ddr-marvell" revision="mv_ddr-armada-18.12"/>
-	<project path="atf-marell" name="atf-marvell" revision="atf-v1.3-armada-18.12"/>
+	<project path="atf-marell" name="atf-marvell" revision="atf-v1.5-armada-18.12"/>
 	<!--
 	<project path="linux-marvell" name="linux-marvell" revision="linux-4.4.52-armada-18.12"/>
 	<project path="u-boot-marvell" name="u-boot-marvell revision="u-boot-2015.01-armada-18.12"/>
